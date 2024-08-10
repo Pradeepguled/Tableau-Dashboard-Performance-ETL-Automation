@@ -1,0 +1,96 @@
+1722231461777	LOCALHOST	Processor	% User Time	_Total	0	2024-07-29 11:09:11
+1722231461777	LOCALHOST	Memory	% Committed Bytes In Use		59.5098876953125	2024-07-29 11:09:11
+1722231461777	LOCALHOST	Processor	% Processor Time	_Total	0	2024-07-29 11:09:11
+1722231461779	LOCALHOST	Memory	Transition Faults/sec		0	2024-07-29 11:09:11
+1722231461782	LOCALHOST	Memory	Committed Bytes		10713997312	2024-07-29 11:09:11
+1722231461782	LOCALHOST	Network Interface	Bytes Sent/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	0	2024-07-29 11:09:11
+1722231461782	LOCALHOST	Memory	Page Faults/sec		0	2024-07-29 11:09:11
+1722231461782	LOCALHOST	Memory	Available Bytes		8176439296	2024-07-29 11:09:11
+1722231461782	LOCALHOST	Network Interface	Packets Received Errors	Qualcomm QCA61x4A 802.11ac Wireless Adapter	0	2024-07-29 11:09:11
+1722231461784	LOCALHOST	Network Interface	Current Bandwidth	Qualcomm QCA61x4A 802.11ac Wireless Adapter	72200000	2024-07-29 11:09:11
+1722231461784	LOCALHOST	Network Interface	Packets/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	0	2024-07-29 11:09:11
+1722231461784	LOCALHOST	Network Interface	Bytes Received/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	0	2024-07-29 11:09:11
+1722231461786	LOCALHOST	Network Interface	Bytes Sent/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231461786	LOCALHOST	Network Interface	Packets Received Errors	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231461785	LOCALHOST	Network Interface	Bytes Total/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	0	2024-07-29 11:09:11
+1722231461787	LOCALHOST	Network Interface	Bytes Received/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231461788	LOCALHOST	Network Interface	Current Bandwidth	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231461789	LOCALHOST	Network Interface	Packets/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231461789	LOCALHOST	Network Interface	Bytes Total/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231461796	LOCALHOST	Processor	% Interrupt Time	_Total	0	2024-07-29 11:09:11
+1722231461796	LOCALHOST	Processor	Interrupts/sec	_Total	0	2024-07-29 11:09:11
+1722231461791	LOCALHOST	LogicalDisk	% Disk Time	_Total	0	2024-07-29 11:09:11
+1722231461792	LOCALHOST	LogicalDisk	Current Disk Queue Length	_Total	0	2024-07-29 11:09:11
+1722231461796	LOCALHOST	Processor	% Privileged Time	_Total	0	2024-07-29 11:09:11
+1722231476790	LOCALHOST	Network Interface	Bytes Total/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	38347.3203125	2024-07-29 11:09:11
+1722231476790	LOCALHOST	Network Interface	Packets Received Errors	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231476790	LOCALHOST	Network Interface	Bytes Sent/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231476790	LOCALHOST	Network Interface	Bytes Received/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	32250.865234375	2024-07-29 11:09:11
+1722231476792	LOCALHOST	Network Interface	Packets Received Errors	Qualcomm QCA61x4A 802.11ac Wireless Adapter	0	2024-07-29 11:09:11
+1722231476793	LOCALHOST	Memory	Available Bytes		7473119232	2024-07-29 11:09:11
+1722231476791	LOCALHOST	Network Interface	Packets/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	51.9725074768066	2024-07-29 11:09:11
+1722231476791	LOCALHOST	Network Interface	Current Bandwidth	Qualcomm QCA61x4A 802.11ac Wireless Adapter	72200000	2024-07-29 11:09:11
+1722231476794	LOCALHOST	Memory	Page Faults/sec		20621.96484375	2024-07-29 11:09:11
+1722231476794	LOCALHOST	Memory	Committed Bytes		12061700096	2024-07-29 11:09:11
+1722231476794	LOCALHOST	Network Interface	Bytes Sent/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	6079.5439453125	2024-07-29 11:09:11
+1722231476795	LOCALHOST	Memory	Transition Faults/sec		2485.48168945313	2024-07-29 11:09:11
+1722231476796	LOCALHOST	Processor	% Processor Time	_Total	27.2305927276611	2024-07-29 11:09:11
+1722231476796	LOCALHOST	Memory	% Committed Bytes In Use		66.9955749511719	2024-07-29 11:09:11
+1722231476796	LOCALHOST	Processor	% User Time	_Total	23.198823928833	2024-07-29 11:09:11
+1722231476806	LOCALHOST	LogicalDisk	Current Disk Queue Length	_Total	0	2024-07-29 11:09:11
+1722231476806	LOCALHOST	Processor	% Privileged Time	_Total	3.98188328742981	2024-07-29 11:09:11
+1722231476806	LOCALHOST	Processor	Interrupts/sec	_Total	6183.95751953125	2024-07-29 11:09:11
+1722231476806	LOCALHOST	LogicalDisk	% Disk Time	_Total	0.0437102764844894	2024-07-29 11:09:11
+1722231476806	LOCALHOST	Processor	% Interrupt Time	_Total	0.0780698582530022	2024-07-29 11:09:11
+1722231476806	LOCALHOST	Network Interface	Current Bandwidth	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231476806	LOCALHOST	Network Interface	Bytes Total/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231476806	LOCALHOST	Network Interface	Packets/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231476806	LOCALHOST	Network Interface	Bytes Received/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231491805	LOCALHOST	Processor	% Processor Time	_Total	10.4129915237427	2024-07-29 11:09:11
+1722231491805	LOCALHOST	Memory	% Committed Bytes In Use		66.728385925293	2024-07-29 11:09:11
+1722231491805	LOCALHOST	Memory	Transition Faults/sec		1202.52380371094	2024-07-29 11:09:11
+1722231491805	LOCALHOST	Network Interface	Bytes Sent/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	13232.529296875	2024-07-29 11:09:11
+1722231491805	LOCALHOST	Memory	Committed Bytes		12013596672	2024-07-29 11:09:11
+1722231491805	LOCALHOST	Processor	% User Time	_Total	8.74411010742188	2024-07-29 11:09:11
+1722231491805	LOCALHOST	Memory	Page Faults/sec		8079.85302734375	2024-07-29 11:09:11
+1722231491805	LOCALHOST	Network Interface	Current Bandwidth	Qualcomm QCA61x4A 802.11ac Wireless Adapter	72200000	2024-07-29 11:09:11
+1722231491806	LOCALHOST	Network Interface	Packets/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	113.234992980957	2024-07-29 11:09:11
+1722231491807	LOCALHOST	Network Interface	Packets Received Errors	Qualcomm QCA61x4A 802.11ac Wireless Adapter	0	2024-07-29 11:09:11
+1722231491807	LOCALHOST	Memory	Available Bytes		7287582720	2024-07-29 11:09:11
+1722231491807	LOCALHOST	Network Interface	Bytes Received/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	84632.7265625	2024-07-29 11:09:11
+1722231491808	LOCALHOST	Network Interface	Bytes Sent/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231491808	LOCALHOST	Network Interface	Packets Received Errors	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231491809	LOCALHOST	Network Interface	Bytes Total/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	97824.46875	2024-07-29 11:09:11
+1722231491821	LOCALHOST	Network Interface	Packets/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231491821	LOCALHOST	Network Interface	Bytes Total/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231491821	LOCALHOST	Network Interface	Current Bandwidth	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231491821	LOCALHOST	Processor	% Interrupt Time	_Total	0.130055576562881	2024-07-29 11:09:11
+1722231491821	LOCALHOST	Network Interface	Bytes Received/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231491823	LOCALHOST	Processor	Interrupts/sec	_Total	4167.9228515625	2024-07-29 11:09:11
+1722231491824	LOCALHOST	LogicalDisk	Current Disk Queue Length	_Total	0	2024-07-29 11:09:11
+1722231491824	LOCALHOST	Processor	% Privileged Time	_Total	1.71662390232086	2024-07-29 11:09:11
+1722231491822	LOCALHOST	LogicalDisk	% Disk Time	_Total	0.032622929662466	2024-07-29 11:09:11
+1722231506817	LOCALHOST	Memory	Available Bytes		7256387584	2024-07-29 11:09:11
+1722231506817	LOCALHOST	Network Interface	Bytes Received/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	72525.5	2024-07-29 11:09:11
+1722231506817	LOCALHOST	Network Interface	Packets Received Errors	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231506817	LOCALHOST	Network Interface	Bytes Total/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	86833.9140625	2024-07-29 11:09:11
+1722231506817	LOCALHOST	Network Interface	Bytes Sent/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231506820	LOCALHOST	Memory	Page Faults/sec		6241.56396484375	2024-07-29 11:09:11
+1722231506818	LOCALHOST	Network Interface	Packets/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	106.301193237305	2024-07-29 11:09:11
+1722231506819	LOCALHOST	Network Interface	Current Bandwidth	Qualcomm QCA61x4A 802.11ac Wireless Adapter	72200000	2024-07-29 11:09:11
+1722231506821	LOCALHOST	Processor	% User Time	_Total	6.16517972946167	2024-07-29 11:09:11
+1722231506817	LOCALHOST	Network Interface	Packets Received Errors	Qualcomm QCA61x4A 802.11ac Wireless Adapter	0	2024-07-29 11:09:11
+1722231506823	LOCALHOST	Memory	% Committed Bytes In Use		66.9540557861328	2024-07-29 11:09:11
+1722231506823	LOCALHOST	Memory	Transition Faults/sec		2826.83203125	2024-07-29 11:09:11
+1722231506824	LOCALHOST	Processor	% Processor Time	_Total	8.26896667480469	2024-07-29 11:09:11
+1722231506822	LOCALHOST	Network Interface	Bytes Sent/sec	Qualcomm QCA61x4A 802.11ac Wireless Adapter	14295.814453125	2024-07-29 11:09:11
+1722231506822	LOCALHOST	Memory	Committed Bytes		12054224896	2024-07-29 11:09:11
+1722231506833	LOCALHOST	Processor	% Privileged Time	_Total	2.08221244812012	2024-07-29 11:09:11
+1722231506833	LOCALHOST	LogicalDisk	Current Disk Queue Length	_Total	0	2024-07-29 11:09:11
+1722231506833	LOCALHOST	Network Interface	Bytes Received/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231506833	LOCALHOST	Processor	Interrupts/sec	_Total	4327.95556640625	2024-07-29 11:09:11
+1722231506833	LOCALHOST	LogicalDisk	% Disk Time	_Total	0.149947986006737	2024-07-29 11:09:11
+1722231506833	LOCALHOST	Processor	% Interrupt Time	_Total	0.104096792638302	2024-07-29 11:09:11
+1722231506833	LOCALHOST	Network Interface	Current Bandwidth	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231506834	LOCALHOST	Network Interface	Bytes Total/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
+1722231506834	LOCALHOST	Network Interface	Packets/sec	Realtek PCIe GbE Family Controller	0	2024-07-29 11:09:11
