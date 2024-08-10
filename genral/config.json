@@ -1,0 +1,25 @@
+{
+    "vertica": {
+        "host": "gbd-lcp-11.ec2-east1.test.com",
+        "port": 5433,
+        "user": "testuser",
+        "password": "testpass",
+        "database": "testdb"
+    },
+    "smtp": {
+        "sender_email": "pradeeptest.gultest@glassbeam.com",
+        "smtp_username": "AKIA34YW7TtestXU52",
+        "smtp_password": "BM8jOSPHHWD+L9MSSxsXIlcdtstW4qK6x8TEST",
+        "smtp_server": "email-test.us-east-1.amazonaws.com",
+        "smtp_port": 465,
+        "recipient_emails": ["pradeeptest.gultest@glassbeam.com"]
+    },
+    "s3": {
+        "bucket_name": "gb-tabjolt-logs",
+        "aws_access_key_id": "AKIAYITESTPTB6SF2SZ",
+	"folder_path": "",
+        "aws_secret_access_key": "876FkSlhGiXIxOvmNptestMP/Tko+81w+9lr",
+        "region_name": "us-east-1"
+    }
+}
+
