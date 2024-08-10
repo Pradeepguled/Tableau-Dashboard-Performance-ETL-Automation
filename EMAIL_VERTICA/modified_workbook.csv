@@ -1,0 +1,7 @@
+t,lt,ts,s,lb,rc,rm,tn,dt,by,ng,na,
+12661,0,1722333530042,true,Interact Viz Test,,Site: traimgtraimgprod; Workbook: StartTimeAnalysisv202403; View: ExamStartAnalysis;,InteractVizThreadGroup 1-1,,0,1,1,Site: traimgtraimgprod; Workbook: StartTimeAnalysisv202403; View: ExamStartAnalysis;
+3513,0,1722333530042,true,VizPortal user Login,,Login with WebApi success,InteractVizThreadGroup 1-1,,0,1,1,Site: traimgtraimgprod; Workbook: StartTimeAnalysisv202403; View: ExamStartAnalysis;
+772,0,1722333533556,true,init view session. optionalRenderMode: default; isEmbedded: true; noShowVizHome: false; isRetry: false,200,SessionID 39175F21C990429B9BC39F61F98B405E-1:0.,InteractVizThreadGroup 1-1,,73385,1,1,Site: traimgtraimgprod; Workbook: StartTimeAnalysisv202403; View: ExamStartAnalysis;
+2218,0,1722333534328,true,Bootstrap request,200,"Bootstrap sessionID:39175F21C990429B9BC39F61F98B405E-1:0, status:OK, isRetry:false",InteractVizThreadGroup 1-1,,1572926,1,1,Site: traimgtraimgprod; Workbook: StartTimeAnalysisv202403; View: ExamStartAnalysis;
+1582,0,1722333536547,true,Get Customized View,200,Customized view OK,InteractVizThreadGroup 1-1,,22,1,1,Site: traimgtraimgprod; Workbook: StartTimeAnalysisv202403; View: ExamStartAnalysis;
+1854,0,1722333540850,true,Interaction with viz,200,Interact done. FilterInteraction.,InteractVizThreadGroup 1-1,,1600143,1,1,Site: traimgtraimgprod; Workbook: StartTimeAnalysisv202403; View: ExamStartAnalysis;
