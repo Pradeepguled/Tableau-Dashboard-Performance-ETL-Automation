@@ -1,7 +1,4 @@
 ### Tableau-Dashboard-Performance-ETL-Automation
-## Tableau Dashboard Performance ETL Automation
-
-### Tableau Dashboard Performance ETL Automation
 
 ## Overview
 This project automates the ETL (Extract, Transform, Load) process for performance testing of Tableau dashboards using TabJolt. The project ensures efficient data logging, transformation, storage, and performance monitoring, providing continuous insights and alerts for any performance deviations.
